@@ -1,0 +1,1 @@
+I definitely could make part 2 quicker by queuing the changeable cells, and then every time I change one I recheck all 8 of its neighbors. I am not going to make that change but it'd be pretty easy theoretically.  
